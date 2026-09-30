@@ -1,0 +1,132 @@
+ticket_id,stratum,product_sku,refund_rs,customer_message,agent_notes,true_code,true_replacement_given,true_is_chase,labeller,notes
+TK-250633,B_no_keyword,VA-SW-FIT,1699.0,"hi
+pairing is not working
+hello??","issue: device not discoverable | walked through forget + re-pair -> adv fw update via app, rslvd.
+Money back to source & a fresh pair shipped. //AAD",,,,,
+TK-253890,C_clear,VA-EB-PL2,3149.0,"the parcel looked like it was kicked here from the warehouse, and the unit has a crack. CAN SOMEONE FIX THIS?","1. Unit received damaged
+2. Checked with crr for damage claim
+3. Reverse pkp arranged",,,,,
+TK-254348,C_clear,VA-EB-AIR,1709.0,this is very disappointing. bought airlite around 15 jun from vireo.in. no sound from the right earbud. i already tried different phone. escalate this to someone senior.,"1. Left side silent
+2. Checked balance settings with cx
+3. Transferred to Escalations & Warranty
+4. Replacement raised. | Refunded Rs 1709 and also raised replacement, cx was very upset.",,,,,
+TK-247120,B_no_keyword,VA-SP-ORB,11398.0,[IVR transcript] helo received damaged product my orbit urgent,"1. Unit received damaged
+2. Photos received, damage confirmed
+3. Refund of Rs 11398 initiated to source",,,,,
+TK-243392,C_clear,VA-SW-NX2,6174.0,"want to cancel my order, VR901743",cx: ord cancellation | chk shipment sattus -> refunded rs 6174 ~Tenzin,,,,,
+TK-244570,C_clear,VA-EB-PL2,3499.0,"case wont charge since a month ago, VR894402","1. charging case dead
+2. asked cx to try different cable + adaptor
+3. advised port cleaning, resolved.
+refund processed to source; replacement unit also shipped. ~Reyansh",,,,,
+TK-241152,B_no_keyword,VA-SW-FIT,160.0,"hey
+where is the money for the return","Cust contacted re refuund delay. chk refund status on PG. Refund approved, Rs 160, 5-7 working days. Case closed with cx consent.
+Refunded. Replacement request rejected as per policy.",,,,,
+TK-248270,B_no_keyword,VA-EB-PL2,3324.0,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of puse 2 buds (VR909099) placed on 17 Dec.  Coupon code not working. I have tried on app & website. I request you to look into this matter at the earliest.
+
+Sincerely,
+Nehha Desai
+Vadodara",issue: promo code invalid | chk cart eligibility -> refunded rs 3324,,,,,
+TK-243305,B_no_keyword,VA-EB-PL1,2499.0,"hey,
+got my pulse from flipkart around diwali.  the courier marked it delivered but nobody in my house got anything.
+i called the courier. nothing changed.
+i want my money back.
+awaiting response,","ticket raised for shipment not rcvd. chk awb w/ crr. re-shipped from warehouse. credited full amount, new unit also going out tomorrow.",,,,,
+TK-241686,B_no_keyword,VA-SW-NX2,6174.0,"hello, nexa 2 purchased 3 weeks back, order vr908439. refund not received yet. i checked bank. nothing changed. kindly look into it. regards, vihaan bhatt",full refund processed (6174). issue: refund not credited. chk refund status on pg. ~Manish,,,,,
+TK-245216,B_no_keyword,VA-HP-ST2,4999.0,[IVR transcript] hii refund not received yet pls reply,refund of rs 4999 initiated to source. issue: refund not credited. chk refund status on pg. ~Manish,,,,,
+TK-245943,C_clear,VA-EB-PL2,6998.0,"Hi team,
+I bought my Pulse 2 on 03 Oct.  Where is teh money for the return.
+I emaied twice. Nothing changed.
+I want my mney back.
+Regards",Contact re refund delay. chk reverse pickup QC status. Refunded Rs 6998. Will monitor. (SOP 3.1) -- Refunded. Replacement request rejected as per policy.,,,,,
+TK-249790,C_clear,VA-EB-PL2,350.0,the festive offer vanished when I clicked pay - can someone fix this?,"Ticket raised for discount not applied. chk cart eligibility. adv coupon terms, rslvd. Cx satisfied on chat.",,,,,
+TK-253354,C_clear,VA-EB-PL2,3499.0,you picked up the itme 14 days ago and my money hasn't come back,"1. Refund pending
+2. Checked reverse pickup QC status
+3. Refunded Rs 3499.
+rfnd issued; rplc not applicable (out of stock).",,,,,
+TK-248183,B_no_keyword,VA-AC-CASE,234.0,refund not received yet.  VR881391. kindly look into it,cx: refund delay | chk refund status on pg -> refuund of rs 234 initiated to source (SOP 2.7),,,,,
+TK-243718,A_short,VA-SW-FIT,1999.0,PACKED THE BOX A WEEK AGO AND IT'S STILL HERE,-,,,,,
+TK-242055,B_no_keyword,VA-HP-ST3,6999.0,"Dear team, I buoght Strata 3 on 27-01-2025. The pairing light blinks but nothing ever shows up on my Realme. I tried on another phone. I want my money back. Thanks in advance,","Cust contacted re pairing failure. Checked phone OS version. xfer to Billing. Re-pair successful, rslvd on chat. Follow-up not required.
+Both rfnd & rplc given as cx threatened social media.",,,,,
+TK-252678,A_short,VA-EB-PL2,2799.0,"Namaste,
+Ordder VR906781 (the Pulse 2 earbuds). Received the wrong item.
+I checked the invoice. Nothing changed.
+Not acceptable at this price.
+Pleae resolve asap.
+Regards Kavya Mukherjee",as discussed //AIS,,,,,
+TK-240984,B_no_keyword,VA-EB-AIR,1799.0,the progress bar has not moved since morning,cx: fw update failed | asked cx to keep in case 30 min -> refunded rs 1799,,,,,
+TK-244458,A_short,VA-EB-PL1,225.0,"hii
+screen has a crack before i even switched it on
+help",as discussed //AIS,,,,,
+TK-240279,B_no_keyword,VA-EB-AIR,1799.0,"helo
+random disconnects during calls
+airlite earbuds
+??",Cx reported intermittent disconnects. Advised to test in different location. rfnd of Rs 1799 initiated to source. (SOP 3.1),,,,,
+TK-245548,A_short,VA-EB-PL2,3324.0,"team,
+the left earbud is not charging at all
+pulse 2 buds
+hello??",see prev ~Krishna,,,,,
+TK-244310,A_short,VA-SW-NX1,475.0,"this is regarding my nexa. my bank says rs 2499 went to you but your site says i have no orders. waiting for your reply. awaiting response, amit gupta",cx ok,,,,,
+TK-253570,B_no_keyword,VA-EB-PL2,665.0,THE SOUND STUTTERS WHENEVER MY PHONE IS IN MY POCKET - HOW DO I GET THIS FIXED?,issue: intermittent disconnects | checked interference sources -> full refund processed (665),,,,,
+TK-245048,A_short,VA-HP-ST3,6999.0,"hey,
+bought the strata 3 around 15-09-2025 from vireo.in. two entries of rs 3499 on my statemnet for one pair of earbuds.
+i waited a week. nothing changed.
+need this sorted this week.
+regards, priya reddy",cx ok,,,,,
+TK-252181,A_short,VA-EB-PL2,1750.0,"Dear Sir/Madam,
+
+I am writing with reference to my order of my Pulse 2 (VR894566) placed on 09 Apr.  Double payment deducted. I have waited a week. I request you to process a refund to my original payment method.
+
+Yours faithfully,
+Simran Sandhu",sorted (sop 5.4),,,,,
+TK-246960,B_no_keyword,VA-SP-ORB,5699.0,payment was deducted but no order was created,"1. amount deducted without order
+2. confirmed with payment gateway
+3. refund of rs 5699 initiated to source ~Sneha",,,,,
+TK-245494,C_clear,VA-EB-PL2,3499.0,"card charged two times
+vr888615","re: double charge | chk pg for duplicate txn -> rfnd approved, rs 3499, 5-7 working days",,,,,
+TK-250499,B_no_keyword,VA-EB-AIR,1439.0,"dear sir/madam,
+
+i am writing wtih reference to my order of the airlite buds placed on 10 feb. cannoot pair the airlite buds with my laptop. i have tried on another phone. i request you to process a refund to my original payment method.
+
+yours faithfully,
+ananya sethi","Contact re pairing failure. Asked cx to reset the device. Reset done, paired ok. | Money back to source and a fresh pair shipped.",,,,,
+TK-251720,C_clear,VA-EB-PL2,3324.0,"Product: pulse 2 buds
+Order: VR902387
+Purchased: March 25
+Issue: monye debited but order not showing
+Tried: tried logging out and in
+Expected: resolution","1. amount deducted without order
+2. asked for utr
+3. rfnd of rs 3324 initiated to source",,,,,
+TK-251638,A_short,VA-EB-PL2,2799.0,double payment deducted. how do i get this fixed?,sorted,,,,,
+TK-243401,C_clear,VA-EB-PL2,3324.0,"Hi Vireo support,
+I bought Pulse 2 on 15-07-2025.  I was charged twice for one order.
+I waited a week.
+Can someone fix this?
+Awaiting response, Yash","1. double charge
+2. confirmed utrs
+3. rfnd of rs 3324 initiated to source",,,,,
+TK-243157,B_no_keyword,VA-SW-NX2,12998.0,"Product: the Nexa 2
+Order: VR906031
+Purchased: June 26
+Issue: it has been 8 days & I have nothing in hand
+Tried: checked the tracking page daily
+Expected: fix",re: delivery delayed | confirmed address with cx -> refund of rs 12998 initiated to source -RM,,,,,
+TK-246850,C_clear,VA-EB-PL2,3324.0,"hii
+left earbud not charging, right one is fine
+the pulse 2 earbuds","cx: l bud no charge in case | confirmed fw 3.4.6 -> advised to observe for 48h and revert.
+refund processed to source; replacement unit also shipped. ~Reyansh",,,,,
+TK-246487,A_short,VA-EB-PL2,3324.0,"Hi,
+Bought Pulse2 around 25 Oct from Amazon. Double payment deducted.
+I waited a week. Nothing changed.
+Can someone fix this?",cx ok,,,,,
+TK-254125,A_short,VA-EB-PL2,3499.0,"Pathetic experience honestly.  I bought Pulse2 on June 09. payment was deducted but no order was created. I already checked bank statement. I want a replacement or refund, nothing else.",closed,,,,,
+TK-247298,B_no_keyword,VA-SP-MINI,2499.0,"distorted audio at high volume, vr896236","FW update, cx to monitor. Issue: audiio distortion. chk w/ different source. | refund + rplc, cx escalation avoided. -AD",,,,,
+TK-240641,A_short,VA-SW-FIT,380.0,"promo code shows invalid
+VR905415
+please advise",as discussed (sop 3.1),,,,,
+TK-251200,C_clear,VA-EB-PL1,2124.0,Bought the Pulse buds around 16-02-2026 from Amazon. Nobody came for the pickup. I rescheduled pickup twice. Waiting for your reply. Please revert,"1. Reverse pickup pending
+2. Re-raised pickup with courier
+3. Refunded Rs 2124",,,,,
+TK-241832,A_short,VA-HP-ST3,5599.0,double paymeent deducted. VR908126,cx ok,,,,,

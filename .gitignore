@@ -1,0 +1,14 @@
+# Client data - never commit
+data/*.csv
+!data/.gitkeep
+
+# Generated outputs (sample_report.csv is committed as an example)
+outputs/*
+!outputs/.gitkeep
+!outputs/sample_report.csv
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
